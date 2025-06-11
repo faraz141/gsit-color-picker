@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎨 Color Picker App
 
-## Getting Started
+An elegant and interactive **Color Picker App** built with **Next.js**, **TypeScript**, and **Tailwind CSS**. This tool allows users to select and copy color codes instantly using a clean and responsive interface.
 
-First, run the development server:
+## 🔗 Live Demo
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+[View Live App](https://gsit-color-picker.vercel.app/)  
+*(Replace the URL if hosted elsewhere)*
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- 🌈 **Live Color Display**
+  - Instantly see and choose your desired color
 
-## Learn More
+- 🔢 **HEX and RGB Support**
+  - View and copy color codes in both HEX and RGB formats
 
-To learn more about Next.js, take a look at the following resources:
+- 📋 **Copy to Clipboard**
+  - Easily copy color codes with one click
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- 🎨 **Responsive Grid**
+  - Browse through a palette of pre-defined colors
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- ⚡ **Built for Performance**
+  - Optimized with Next.js App Router and Tailwind for fast loading and smooth UI
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🛠️ Tech Stack
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+---
