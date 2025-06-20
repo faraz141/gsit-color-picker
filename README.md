@@ -34,5 +34,3 @@ An elegant and interactive **Color Picker App** built with **Next.js**, **TypeSc
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
----
-**Created by Faraz Alam **
